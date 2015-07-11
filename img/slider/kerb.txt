@@ -1,0 +1,10 @@
+<div class="item">    
+                    <!-- Image -->        
+                    <img src="img/slider/slider6.jpg" width="100%" alt="Kerb Stone">
+                    <!-- Decription -->
+                    <div class="carousel-caption header-carousel-caption">
+                        <h1 style="text-shadow: 2px 2px #000;">Kerb Stone</h1> 
+                        <!-- Project Link -->
+                        <a href="products.html" class="btn white-btn">View Products</a>
+                    </div>
+                </div>
